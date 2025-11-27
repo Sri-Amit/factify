@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Social Media Fact Checker",
-  "version": "1.2.0",
+  "name": "Factify",
+  "version": "1.2.1",
   "description": "Fact-check tweets, Instagram posts, and Facebook posts using AI-powered backend",
   
   "permissions": [
